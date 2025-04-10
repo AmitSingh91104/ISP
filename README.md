@@ -47,8 +47,8 @@ Betternet is a comprehensive Internet Service Provider (ISP) management system b
 1. Clone the repository:
 
 ```bash
-git
-cd betternet4
+https://github.com/AmitSingh91104/ISP.git
+cd ISP
 ```
 
 2. Install PHP dependencies:
